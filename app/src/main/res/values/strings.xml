@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">金豆子</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home">首页</string>
+    <string name="classification">分类</string>
+    <string name="order">订单</string>
+    <string name="personalcenter">个人中心</string>
+
+
+</resources>

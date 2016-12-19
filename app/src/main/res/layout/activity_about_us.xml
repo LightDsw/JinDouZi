@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f1f0f0">
+    <include layout="@layout/title_bar">
+    </include>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="#f1f0f0"/>
+    <ImageView
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/log_logo"
+       />
+    <TextView
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_marginTop="15dp"
+        android:text="       关于我们发发发件方法法啊啊啊啊啊阿按时发发发sd卡发顺丰的实际付款了的数据分类的数据分类里发生发大水"/>
+</LinearLayout>

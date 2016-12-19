@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tab_checked_color">#ff0000</color>
+    <color name="tab_unchecked_color">#ffffff</color>
+    <color name="tab_checked_bg">#66000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="home_lists_pressed">#66ff0000</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="surface_bg">#55C7C7C7</color>
+</resources>
